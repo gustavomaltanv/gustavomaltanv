@@ -1,5 +1,4 @@
-### Hi there! 
-##### gustavomaltanv
+## Hi there! 🤙
 
 <img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBnN21vcGVkazdvZTNwY2NieDd5Z3JwcGltOHFzN2ZibHdrcWF2OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aNqEFrYVnsS52/giphy.gif" alt="animated">
 
