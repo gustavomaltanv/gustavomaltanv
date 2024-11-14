@@ -1,4 +1,7 @@
-## gustavomaltanv
+### Hi there! 
+##### gustavomaltanv
+
+<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBnN21vcGVkazdvZTNwY2NieDd5Z3JwcGltOHFzN2ZibHdrcWF2OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aNqEFrYVnsS52/giphy.gif" alt="animated">
 
 [![roadmap.sh](https://roadmap.sh/card/tall/650076115ce9f4ca58b9fe95?variant=dark&roadmaps=full-stack%2Cbackend%2Cfrontend)](https://roadmap.sh)
 
