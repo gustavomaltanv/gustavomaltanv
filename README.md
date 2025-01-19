@@ -1,8 +1,6 @@
 ## Hi there! 🤙
 
-<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBnN21vcGVkazdvZTNwY2NieDd5Z3JwcGltOHFzN2ZibHdrcWF2OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aNqEFrYVnsS52/giphy.gif" alt="animated">
-
-[![roadmap.sh](https://roadmap.sh/card/tall/650076115ce9f4ca58b9fe95?variant=dark&roadmaps=full-stack%2Cbackend%2Cfrontend)](https://roadmap.sh)
+<img align="center" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBnN21vcGVkazdvZTNwY2NieDd5Z3JwcGltOHFzN2ZibHdrcWF2OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aNqEFrYVnsS52/giphy.gif" alt="animated">
 
 <!-- 
 **gustavomaltanv/gustavomaltanv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
