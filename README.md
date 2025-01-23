@@ -1,9 +1,10 @@
 ## Hi there! 🤙
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <img src="https://leetcard.jacoblin.cool/gustavomaltanv?theme=catppuccinMocha&font=Roboto&ext=heatmap" alt="LeetCode Stats" style="height: auto;">
-    <img height="auto" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBnN21vcGVkazdvZTNwY2NieDd5Z3JwcGltOHFzN2ZibHdrcWF2OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aNqEFrYVnsS52/giphy.gif" alt="animated">
+    <img height="160" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBnN21vcGVkazdvZTNwY2NieDd5Z3JwcGltOHFzN2ZibHdrcWF2OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aNqEFrYVnsS52/giphy.gif" alt="animated" style="align-self: flex-start;">
 </div>
+
 
 
 
